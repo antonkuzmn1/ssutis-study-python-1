@@ -1,0 +1,8 @@
+### Get players
+GET http://127.0.0.1:8080/get_players/
+Accept: application/json
+
+### Parse data
+GET http://127.0.0.1:8080/parse_data/
+Accept: application/json
+
